@@ -21,7 +21,7 @@ Similar to Quick Heal's GoDeep.AI and Norton's AI-powered detection, but simplif
 - Libraries: `tkinter` (built-in), `watchdog` (for real-time—`pip install watchdog`), `requests` (for updates—`pip install requests`).
 
 ## Installation
-1. Save the script as `cyberdude_av.py`.
+1. Save the script as `run.py`.
 2. Install dependencies:
 
 ## LICENSE
