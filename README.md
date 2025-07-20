@@ -24,7 +24,7 @@ Similar to Quick Heal's GoDeep.AI and Norton's AI-powered detection, but simplif
 1. Save the script as `cyberdude_av.py`.
 2. Install dependencies:
 
-##LICENSE
+## LICENSE
 
 MIT
 
@@ -32,6 +32,6 @@ MIT
 
 COPYRIGHT@CYBERDUDEBIVASH  2025
 
-##AUTHOR 
+## AUTHOR 
 
 BIVASH NAYAK
